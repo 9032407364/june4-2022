@@ -1,6 +1,6 @@
 Developer skils 
 
---- about git
+--- abou git
 vemurinaveen@LAPTOP-NNOOL1UK MINGW64 /e/practice/june4-2022 (main)
 $ git remote -v
 origin  https://github.com/9032407364/june4-2022.git (fetch)
